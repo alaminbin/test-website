@@ -1,0 +1,188 @@
+/* Header section start */
+
+.nav-bar{
+    padding:25px 0px ;
+    
+}
+
+.logo img{
+    max-width: 150px;
+   
+
+}
+
+.menu ul{
+   text-align: right;
+}
+
+.menu ul li{
+  display: inline-block;
+ 
+}
+
+.menu ul li a{
+    color: black;
+    padding:15px;
+    text-decoration: none;
+   
+}
+
+/* banner section start */
+ .banner{
+    background-image: url(../img/bn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0px;
+ }
+
+ .banner-text{
+    max-width: 550px;
+    background-color: hsla(211, 88%, 49%, 0.91);
+    padding: 25px 15px;
+    color: #ffffff;
+ }
+
+ .banner-text h2{
+    font-size: 55px;
+    font-weight: bold;
+    padding: 20px 0px;
+
+ }
+
+ 
+ .banner-text a{
+ font-size:20px ;
+ color:hsla(211, 88%, 49%, 0.91) ;
+ background-color: #ffffff;
+ padding: 15px 15px;
+ border-radius: 5px;
+ }
+
+/* intro section start */
+
+.intro{
+padding: 100px 0px;
+}
+
+.intro-box{
+text-align: center;
+background-color: #F1F6FC;
+padding: 25px 10px;
+border-radius: 5px;
+}
+.intro-box img{
+   width: 65px; 
+   padding: 20px 0px;
+}
+
+.intro-box h2{
+  font-size: 20px;
+  color: black;  
+  font-weight: bold;
+}
+.intro-box h2:hover{
+    color: #4F97F0;
+  }
+
+/* about us section */
+.about{
+    background-image: url(../img/about-bg-home.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding: 100px 0px 0px;
+}
+
+.col-md-8 img{
+    width: 685px;
+}
+
+
+/* services section start */
+
+.services{
+    padding: 85px 0px;
+}
+
+.ser-text-1{
+    text-align: center;
+    padding: 10px 0px;
+}
+
+
+.ser-text-1 span{
+    font-size: 20px;
+    color: #4F97F0;
+   
+  
+}
+
+.ser-text-2{
+    text-align: center;  
+    padding: 35px 0px;
+}
+
+.ser-text-2 h3{
+    font-size: 55px;
+    color:black;
+   
+    font-weight: bolder;
+}
+
+/* project section start */
+
+.project{
+    padding: 75px 0px;
+    background-color: #F1F6FC;
+}
+
+.project-info{
+background-color: #fff;
+padding-bottom: 25px;
+
+}
+
+
+
+.project-info h5 {
+ padding: 20px;
+ color: black;
+ font-weight: bold;
+}
+
+.project-info span {
+    padding: 20px;
+
+   }
+
+   /* skills section start */
+   .skills{
+    padding: 80px 0px;
+    
+    
+   }
+
+   .skill{
+    background-color: #F1F6FC;
+    padding: 25px 35px;
+    height: 500px;
+    
+   }
+
+   .skill p{
+    font-size: 18px;
+    color: #4F97F0;
+    
+   }
+
+   label{
+    color: black;
+    font-weight: bold;
+   }
+
+   .skill-img img{
+    height:500px ;
+    margin-left: -30px;
+   }
+   
